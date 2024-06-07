@@ -1,0 +1,15 @@
+587bec15a1cbbbfbbac675f8e05f6d06 *DESCRIPTION
+4c48d5f027718c6e6bbc17e4863e13e0 *LICENSE
+0920ae91ce33bb463f6908993ca2348c *NAMESPACE
+de9392d43cf62431ed5e339fd5045d8e *NEWS.md
+166162cfed7b4aede56067ba86b707e6 *R/futureverse.R
+616a234527827d7a7561a864743c5d30 *R/futureverse_deps.R
+34cfee66afbb276dfdbea102be80c306 *R/futureverse_packages.R
+8487addbc66f4b651bafe19367fcd904 *R/futureverse_update.R
+6bb6f9839206a5cecb708677a9fa3140 *R/zzz.R
+efdac1bb63fc91ce46533261e127b3eb *README.md
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+c02a76b7289c47acfbb1e531ef4441b7 *man/futureverse-package.Rd
+e34070dcfd7ca9e90db926eeedc647f0 *man/futureverse_deps.Rd
+9e420b26ad09f8cc2c3772935d8c5234 *man/futureverse_packages.Rd
+cf89a469679dbff983f69d00635b7e3b *man/futureverse_update.Rd
